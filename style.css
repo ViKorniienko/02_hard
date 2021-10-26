@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  
+}
+.wrapper {
+  max-width: 951px;
+  height: 566px;
+  margin: auto;
+  background-color: #9A0909;
+}
+
+header {
+text-align: center;
+padding-top: 7px;
+padding-left: 7px;
+}
