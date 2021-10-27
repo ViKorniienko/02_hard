@@ -14,3 +14,43 @@ text-align: center;
 padding-top: 7px;
 padding-left: 7px;
 }
+
+.menu-block {
+  background-color: #000000;
+  width: 943px;
+  height: 160px;
+  margin-left: 8px;
+  margin-top: 0px;
+}
+
+ul {
+  list-style: none;
+}
+
+.cards {display: flex;
+  justify-content: center;
+  gap: 85px;
+  padding-top: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 0px;
+
+}
+
+.cards img {
+  width: 150px;
+  height: 114px;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  gap: 190px;
+  color: #ffffff;
+  padding-left: 0px;
+  height: 25px;
+  margin: 0px;
+}
+.menu p {
+  margin: 0px;
+}
